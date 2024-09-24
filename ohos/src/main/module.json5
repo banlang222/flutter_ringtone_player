@@ -1,0 +1,10 @@
+{
+  "module": {
+    "name": "flutter_ringtone_player",
+    "type": "har",
+    "deviceTypes": [
+      "default",
+      "tablet"
+    ]
+  }
+}
